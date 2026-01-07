@@ -1,0 +1,2 @@
+# Marketing-Campaign-Response-Prediction-with-SQL-Feature-Engineering-Machine-Learning
+Built an end-to-end marketing response prediction system using customer demographics, campaign interactions, and economic indicators. Performed EDA, SQL-based feature engineering, and trained ML models including LightGBM. Evaluated performance using lift, gains, and profit-based metrics, and generated actionable customer calling segments.
